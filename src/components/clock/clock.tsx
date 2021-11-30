@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import moment from "moment";
-import { Digit } from "./digit";
+import { Digit } from "../digit";
 
 export const Clock: React.FC = () => {
   useEffect(() => {
